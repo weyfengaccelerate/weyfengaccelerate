@@ -1,0 +1,130 @@
+#mainNav {
+    background-color: black;
+}
+
+#htopbtn {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.zero-zero {
+    margin: 0;
+    padding: 0;
+}
+
+
+header .htop {
+    position: relative;
+    margin-top:50px;
+    width:100%;
+    text-align:center;
+    min-height:auto;
+/*    background-image: url('http://placehold.it/1600x700'); */
+    background-image: url('flower-star.jpg');
+    background-size: cover;
+    font-size: 1em;
+    padding-top: 3em;
+    padding-bottom: 10em;
+
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+
+/*			BODY
+------------------------------------------------------*/
+body { 
+/*    background-image: url('blackswan.jpg'); */
+    background-image: url('main-cloud-background.jpg');
+    background-size: 1600px 900px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+
+/*			HEADERS
+------------------------------------------------------*/
+h1.header1 {
+    text-align: center;
+    color: red;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    font-style: italic;
+    letter-spacing: 0px;
+    text-shadow: 2px 2px 2px black;
+    padding-top:;
+    padding-bottom: 1.5em; 
+/*    margin: 0 1.5% 24px 1.5%; */
+}
+
+p.whitefont {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+h2.header2 {
+    font-family: fantasy;
+    font-size: 32px;
+    font-style: bold;
+    padding-top: 50px;
+    padding-bottom: 25px;
+
+}
+
+h3.imgheader {
+    font-family: 'Times New Roman', Times, serif;/*"Comic Sans", Comic Sans, sans-serif;*/
+    font-size: 24px;
+    font-style: italic;
+/*    font-weight: lighter; */
+    font-style: bold;
+}
+
+/*h4.header4 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+}*/
+
+/*			PAGE LAYOUT
+------------------------------------------------------*/
+/*header {
+    margin: 0 1.5% 24px 1.5%;
+}
+
+group {
+    margin: 0 1.5% 24px 1.5%;
+    content: "";
+    display: table;
+    clear: both;
+    *zoom: 1;
+}
+
+navBar {
+    float: left;
+    width: 25%;
+}
+
+article {
+    float: right;
+    width: 73%;
+}
+
+footer {
+    margin: 0 1.5% 24px 1.5%;
+    margin-bottom: 0;
+}*/
+
+/*		IMAGE MANIPULATION
+------------------------------------------------------*/
+/*p.centerImage
+{
+text-align:center;
+display:block;
+}*/
